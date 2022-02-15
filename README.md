@@ -28,7 +28,7 @@ Converl-U05 (can contain an infinite user folders data)
 
 ### Managing Parent Folder
 
-As you saw on the GF's appendix above, the user that have `!manager` or `!mod` in its `perm.dat` file inside its folder. The user can manage all users within the parent folder only.
+As you saw on the GF's appendix above, the user that have `!manager` or `!mod` in its `perm.dat` file inside its folder can manage all users within the parent folder only.
 
 ### Changing Permission
 
